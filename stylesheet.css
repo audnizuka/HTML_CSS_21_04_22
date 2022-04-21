@@ -24,3 +24,9 @@ em {
     color: orange;
     text-decoration: underline;
 }
+
+.article {
+    color: green;
+    text-align: right;
+    text-decoration: underline;
+}
