@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: xx-large;
+}
+h3 {
+    color: blue;
+    font-size: x-large;
+}
+p {
+    background-color: grey;
+}
+span {
+    background-color: pink;
+}
+
+strong {
+    font-weight: normal;
+    color:yellowgreen
+}
+
+em {
+    font-size: larger;
+    color: orange;
+    text-decoration: underline;
+}
